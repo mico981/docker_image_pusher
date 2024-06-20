@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql
-portainer-ce
+portainer/portainer
