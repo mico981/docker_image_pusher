@@ -1,2 +1,2 @@
-#--platform=linux/arm64_v8 mysql
-multiarch/arm64v8/mysql
+#--platform=linux/arm64 mysql
+portainer-ce
