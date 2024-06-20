@@ -1,1 +1,2 @@
-arm64v8/mysql
+#支持指定架构
+--platform=linux/arm64v8 mysql
