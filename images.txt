@@ -1,1 +1,1 @@
---platform=linux/arm64 mysql
+--platform=linux/arm64v8 mysql
