@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql
-#portainer/portainer
+arm64v8/nginx
